@@ -99,10 +99,12 @@ h2 {
 
 #about-me h1 {
   font-size: 42px;
-  margin-top: 8opx;
+  margin-top: 8px;
   color: #02013b;
 }
-
+.clearfix{
+  overflow: auto;
+}
 #about-me p {
   font-size: 25px;
   color: #02013b;
